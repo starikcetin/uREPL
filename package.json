@@ -1,0 +1,7 @@
+{
+	"name": "com.hecomi.urepl",
+	"displayName": "uREPL",
+	"version": "0.6.0",
+	"description": "In-game powerful REPL environment for Unity3D. http://tips.hecomi.com/entry/2015/12/05/003000",
+	"dependencies": {}
+}
