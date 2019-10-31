@@ -1,0 +1,16 @@
+{
+    "name": "uREPL-Editor",
+    "references": [
+        "GUID:62094cb2b42eeb14d82adffe351078c8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
